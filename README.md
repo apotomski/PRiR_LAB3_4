@@ -1,6 +1,9 @@
 # PRiR_LAB3_4
 PRiR lab3 projekt 4. Stworzenie fraktala Julli. program tworzy plik png z fraktalem Julli obliczenia przygotowujące tablicę z kolorami są wykonowane na wątkach.
 
+![image](https://user-images.githubusercontent.com/80594314/139539895-319767f1-b831-4f57-8f89-cca9f6af67b2.png)
+
+
 Opis kodu
 
 klasa Fraktal
